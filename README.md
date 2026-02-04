@@ -1,7 +1,7 @@
 # Complete Guide: Setting Up CA and HTTPS for Your Network Devices
 # A walkthrough created by RGBPK, for educational and informative purposes. 
 
-**Version 1.2 - February 2026**
+**Version 1.2 - February 2026** - Created by RGBPK for educational and informative purposes.
 
 ## Overview
 
